@@ -1,4 +1,5 @@
 ## Hello world 👋
+```python
 print("Welcome to my GitHub profile!")
 print("Here you'll find code, ideas, and maybe a few bugs I left behind by accident...")
 
@@ -16,6 +17,7 @@ while True:
         print("Error: brain not found! Retrying... 🤖")
 
 print("Keep exploring... The perfect repository is closer than you think!")
+```
 
 ## 🛠️ Tech Stack:
 #![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
