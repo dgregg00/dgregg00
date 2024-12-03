@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**dgregg00/dgregg00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack:
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats:
+![Dani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgregg00&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔝 Top Langs:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgregg00&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dgregg00&theme=radical)
+
+
+
